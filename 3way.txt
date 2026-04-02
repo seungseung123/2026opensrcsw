@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 4.3way.txt파일 추가 내용 작성 및 커밋 -> push
 4.3way.txt파일 추가 내용 작성 및 커밋 -> push
 4.3way.txt파일 추가 내용 작성 및 커밋 -> push
 
+=======
+
+2.3way.txt파일 추가 내용 작성 및 3way 브랜치에 커밋 -> push
+>>>>>>> 3way
+
+
+
+
+5. 3-way merge 수행 후 커밋
