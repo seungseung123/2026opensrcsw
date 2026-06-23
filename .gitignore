@@ -2,3 +2,4 @@ build/
 *.out:
 seung2/
 test.txt
+test1.txt
